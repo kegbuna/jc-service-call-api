@@ -1,0 +1,11 @@
+# project files
+.idea
+.vscode
+
+# settings
+appsettings.json
+appsettings.Development.json
+
+# build
+bin
+obj

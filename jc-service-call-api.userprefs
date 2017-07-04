@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{64E36C20-F7CA-4EFF-9B16-8727932CFA35}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JCServiceCallUnitTests/CallCodeRepositoryTests.cs">
+    <Files>
+      <File FileName="Program.cs" Line="17" Column="1" />
+      <File FileName="Controllers/ShiftsController.cs" Line="23" Column="36" />
+      <File FileName="Startup.cs" Line="7" Column="1" />
+      <File FileName="appsettings.json" Line="14" Column="5" />
+      <File FileName="Data/ShiftRepository.cs" Line="52" Column="10" />
+      <File FileName="Models/Shift.cs" Line="10" Column="33" />
+      <File FileName="JCServiceCallUnitTests/CallCodeRepositoryTests.cs" Line="21" Column="12" />
+      <File FileName="../../.nuget/packages/NSubstitute/2.0.3/README.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Catchpoint enabled="false" exceptionName="System.Exception" includeSubclasses="True" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.jc-service-call-api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <UserSecretsId>aspnet-jc_service_call_api-ADA898D8-AD21-4914-8EF1-5B8878743B3E</UserSecretsId>
+    <RuntimeFrameworkVersion>2.0.0-preview1-002111-00</RuntimeFrameworkVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Configuration" />
+    <Folder Include="JCServiceCallUnitTests\obj\Debug\netcoreapp2.0" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.2" />
+    <PackageReference Include="DapperExtensions.DotnetCore" Version="1.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0-preview2-25661" />
+    <PackageReference Include="Npgsql" Version="3.2.4.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0-preview2-25661" />
+  </ItemGroup>
+</Project>
